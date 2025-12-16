@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Engineer | Passionate about building scalable web and mobile apps with clean, efficient code.<br>💻Skilled in React, React Native, Expo, Node.js e.t.c
+🚀 Software Engineer | Passionate about building scalable web and mobile apps with clean, efficient code.<br>💻Skilled in React, React Native, Expo, Node.js, MongoDb, Express.js  e.t.c
 
 
 ## 🌐 Socials:
